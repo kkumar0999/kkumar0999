@@ -1,5 +1,10 @@
-## Hi there 👋
+## Heyo!
 
+Welcome to my profile! I'm Krish Kumar, or known on GitHub as kkumar0999!
+I'm a student who's really interested in computer science and coding. I love to research random topics, and I also love tinkering with projects!
+Besides that, I also love linguistics, and I'm hoping to dive deep into not just computers and programming, but also fields like NLP that use language!
+
+I haven't really put much thought into this README... I'll probably update it soon. But I hope you like my projects!!!
 <!--
 **kkumar0999/kkumar0999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
